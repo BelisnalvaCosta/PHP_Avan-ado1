@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @BelisnalvaCosta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+    <html> lang ="pt-br">
+        <head>
+           <meta charset="utf-8">
+           <title>"Minha pagina"</title>
+        </head>
 
-<!---
-BelisnalvaCosta/BelisnalvaCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+        <body>
+            <nav> 
+                <p>Minha pagina</p>
+                <ul>
+                    <li>
+                      <a href="servicos"><SERVICOS</a>
+                    </li>
+                    <li>
+                      <a href="alunos">ALUNOS</a>
+                    </li>
+                    <li>
+                      <a href="professores">PROFESSORES</a>
+                    </li>                  
+                    <li>
+                      <a href="# TIME"</a>
+                    </li>
+                </ul>
+                
+        <head>
+                <h1>Minha pagina</h1>
+                <p>
+                  Oferecemos os melhores servicos e educacao de qualidade.
+                </p>
+        </header>
+        <selection id="servicos">
+                 <h2>SERVICOS</h2>
+                 <P>
+                 Nossos Alunos ficararão muito satisfeitos.
+            </body>
+        </head>
+        </footer>
+    </html>
