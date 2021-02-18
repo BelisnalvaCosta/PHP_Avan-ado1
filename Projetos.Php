@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>"Minha pagina"</title>
-    </head>
+    </header>
 
     <body>
         <nav> 
@@ -28,47 +28,38 @@
         </nav>    
         <header>
             <h1>Minha pagina</h1>
-            <p>
-                Oferecemos os melhores servicos e educacao de qualidade.
-            </p>
+            <p>Oferecemos os melhores servicos e educacao de qualidade.</p>
         </header>
                 
         <section id="servicos">
             <h2>SERVICOS</h2>
-            <P>
-                Oferecemos os melhores servicos e educacao de qualidade.
-            </p>
-            <dir> 
+            <P>Oferecemos os melhores servicos e educacao de qualidade.</p>
+            <div> 
                 <img src="img/site.jpg" width="300px">
-            </dir>
+            </div>
             <dir>
                 <img src="img/app.jpg" width="300px">                               
-            </dir>
-            
+            </div>
+        </section> 
+        
         <section id="CLIENTE">
             <h2>Clientes</h2>
-            <p>
-                Nossos Alunos ficararão muito satisfeitos.
-            </p>
-            <dir>
+            <p>Nossos Alunos ficararão muito satisfeitos.</p>
+            <div>
                 <img src="img/Cliente1.jpg" width="300px"> 
-            </dir>
+            </div>
         </section>
             
         <section> id="Parceiros">
             <h2><PARCEIROS"></h2>
-            <p>
-                Os nossos parceiros (Professores e contribuintes) nos ajudam a ter um servico de qualidade e excelência!
-            </p>
-                
-            <dir>
+            <p>Os nossos parceiros (Professores e contribuintes) nos ajudam a ter um servico de qualidade e excelência!</p>
+            <div>
                 <a href="https://digitalinnovation.one" target="blank">
-                <img src="img/digital_innovation_one.png" width="130px">
-                </a>                
-            </dir>
-    </body>
+                <img src="img/digital_innovation_one.png" width="130px"></a>                
+            </div>
+        </body>
     </header>
     <footer>
-                <p>Desenvolvido por BelisnalvaC</P>                
+            <p>Desenvolvido por BelisnalvaC</P>                
     </footer>
 </html>
