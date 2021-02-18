@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <title>"Minha pagina"</title>
-    </head>
     <body>
         <nav> 
             <p>Minha pagina</p>
@@ -36,17 +35,13 @@
             <div> 
                 <img src="img/site.jpg" width="300px">
                 <img src="img/app.jpg" width="300px">                               
-            </div>
-        </section> 
-        
+            
         <section id="CLIENTE">
             <h2>Clientes</h2>
             <p>Nossos Alunos ficararão muito satisfeitos.</p>
             <div>
                 <img src="img/Cliente1.jpg" width="300px"> 
-            </div>
-        </section>
-            
+          
         <section> id="Parceiros">
             <h2><PARCEIROS"></h2>
             <p>Os nossos parceiros (Professores e contribuintes) nos ajudam a ter um servico de qualidade e excelência!</p>
@@ -54,7 +49,8 @@
                 <a href="https://digitalinnovation.one" target="blank">
                 <img src="img/digital_innovation_one.png" width="130px"></a>                
             </div>
-       </section>       
+       </section>  
+                
     </body>
     </header>
     <footer>
