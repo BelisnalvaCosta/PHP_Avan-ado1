@@ -3,8 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>"Minha pagina"</title>
-    </header>
-
+    </head>
     <body>
         <nav> 
             <p>Minha pagina</p>
@@ -36,8 +35,6 @@
             <P>Oferecemos os melhores servicos e educacao de qualidade.</p>
             <div> 
                 <img src="img/site.jpg" width="300px">
-            </div>
-            <dir>
                 <img src="img/app.jpg" width="300px">                               
             </div>
         </section> 
@@ -57,7 +54,8 @@
                 <a href="https://digitalinnovation.one" target="blank">
                 <img src="img/digital_innovation_one.png" width="130px"></a>                
             </div>
-        </body>
+       </section>       
+    </body>
     </header>
     <footer>
             <p>Desenvolvido por BelisnalvaC</P>                
