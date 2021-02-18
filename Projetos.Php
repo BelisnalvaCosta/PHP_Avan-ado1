@@ -1,39 +1,71 @@
 <!DOCTYPE html>
-    <html> lang ="pt-br">
-        <head>
-           <meta charset="utf-8">
-           <title>"Minha pagina"</title>
-        </head>
+<html> lang ="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>"Minha pagina"</title>
+    </head>
 
-        <body>
-            <nav> 
-                <p>Minha pagina</p>
-                <ul>
-                    <li>
-                      <a href="servicos"><SERVICOS</a>
-                    </li>
-                    <li>
-                      <a href="alunos">ALUNOS</a>
-                    </li>
-                    <li>
-                      <a href="professores">PROFESSORES</a>
-                    </li>                  
-                    <li>
-                      <a href="# TIME"</a>
-                    </li>
-                </ul>
-                
-        <head>
-                <h1>Minha pagina</h1>
-                <p>
-                  Oferecemos os melhores servicos e educacao de qualidade.
-                </p>
+    <body>
+        <nav> 
+            <p>Minha pagina</p>
+            <ul>
+                <li>
+                    <a href="servicos"><SERVICOS</a>
+                </li>
+                <li>
+                    <a href="alunos">ALUNOS</a>
+                </li>
+                <li>
+                    <a href="professores">PROFESSORES</a>
+                </li>                  
+                <li>
+                    <a href="# time">TIME</a>
+                </li>
+                <li>
+                    <a href="# contato">CONTATO</a>
+                </li>
+            </ul>
+        </nav>    
+        <header>
+            <h1>Minha pagina</h1>
+            <p>
+                Oferecemos os melhores servicos e educacao de qualidade.
+            </p>
         </header>
-        <selection id="servicos">
-                 <h2>SERVICOS</h2>
-                 <P>
-                 Nossos Alunos ficararão muito satisfeitos.
-            </body>
-        </head>
-        </footer>
-    </html>
+                
+        <section id="servicos">
+            <h2>SERVICOS</h2>
+            <P>
+                Oferecemos os melhores servicos e educacao de qualidade.
+            </p>
+            <dir> 
+                <img src="img/site.jpg" width="300px">
+            </dir>
+            <dir>
+                <img src="img/app.jpg" width="300px">                               
+            </dir>
+            
+        <section id="CLIENTE">
+            <h2>Clientes</h2>
+            <p>
+                Nossos Alunos ficararão muito satisfeitos.
+            </p>
+            <dir>
+                <img src="img/Cliente1.jpg" width="300px"> 
+            </dir>
+        </section>
+            
+        <section> id="Parceiros">
+            <h2><PARCEIROS"></h2>
+            <p>
+                Os nossos parceiros (Professores e contribuintes) nos ajudam a ter um servico de qualidade e excelência!
+            </p>
+            <dir>
+                <a href="https://digitalinnovation.one" target="blank">
+                <img src="img/digital_innovation_one.png" width="130px">
+                </a>
+                </dir>
+    </body>
+    </head>
+    </footer>
+</html>
