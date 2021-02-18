@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>"Minha pagina"</title>
-    </head>
+    </header>
 
     <body>
         <nav> 
@@ -60,12 +60,13 @@
             <p>
                 Os nossos parceiros (Professores e contribuintes) nos ajudam a ter um servico de qualidade e excelência!
             </p>
+                
             <dir>
                 <a href="https://digitalinnovation.one" target="blank">
                 <img src="img/digital_innovation_one.png" width="130px">
-                </a>
-                </dir>
+                </a>                
+            </dir>
     </body>
-    </head>
+    </header>
     </footer>
 </html>
