@@ -48,9 +48,7 @@
             <div>
                 <a href="https://digitalinnovation.one" target="blank">
                 <img src="img/digital_innovation_one.png" width="130px"></a>                
-       </section>  
-                
-    </body>
+        </body>
     </header>
     <footer>
             <p>Desenvolvido por BelisnalvaC</P>                
