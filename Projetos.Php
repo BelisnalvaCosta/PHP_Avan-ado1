@@ -31,7 +31,7 @@
                 
         <section id="serviços">
             <h2>SERVIÇOS</h2>
-            <P>Oferecemos os melhores serviços e educação de qualidade.</p>
+            <p>Oferecemos os melhores serviços e educação de qualidade.</p>
             <div> 
                 <img src="img/site.jpg" width="300px">
                 <img src="img/app.jpg" width="300px">                               
@@ -50,8 +50,9 @@
                 <img src="img/digital_innovation_one.png" width="130px"></a>                
         
     <footer>
-            <p>Desenvolvido por BelisnalvaC</P>                
+            <p>Desenvolvido por BelisnalvaC</p>                
     </footer>
-                
+    </body>            
+</html>                
        
 
