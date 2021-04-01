@@ -47,12 +47,12 @@
             <p>Os nossos parceiros (Professores e contribuintes) nos ajudam a ter um serviço de qualidade e excelência!</p>
             <div>
                 <a href="https://digitalinnovation.one" target="blank">
-                <img src="img/digital_innovation_one.png" width="130px"></a>                
+                <img src="img/digital_innovation_one.png" width="130px">                
         
     <footer>
             <p>Desenvolvido por BelisnalvaC</p>                
     </footer>
-    </body>            
-</html>                
+       
+          
        
 
